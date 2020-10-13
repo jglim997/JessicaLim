@@ -1,28 +1,23 @@
 body{
     margin-left: 14%;
     margin-right: 14%;
-    /* margin-left: 10%;
-    margin-right: 10%; */
     margin-top: 10px;
     margin-bottom: 20px;
-    background-color: #721616;
+    background-color: #922121;
+    /* background-color: #721616; red*/
     /* background-color: #fff9f6; */
     color: black;
-    /* background-image: url(images/Group\ 192.png); */
-    /* background-image: url(images/Group\ 218.svg); */
-    /* background-image: url(images/Group\ 226.svg); */
-    background-image: url(images/Group\ 234.svg);
- 
+    /* background-image: url(images/Group\ 234.svg); */
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: top;
-    /* background-attachment: fixed; */
     
 }
 
 header{
     /* background-color:#B61111; */
-    background-color: #721616;
+    /* background-color: #721616; */
+    background-color: #922121;
     padding-top: 50px;
     
 }
@@ -48,11 +43,30 @@ header{
     font-size: 10px; 
 }
 
+.container{
+    /* background-image: (url(images/Group\ 191.svg));
+    background-position: center; */
+}
+
+.title{
+    /* padding-top: 250px; */
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    letter-spacing: 52px;
+    text-indent: 52px;
+    position: relative;
+
+}
+
 .intro{
     font-family: "roboto",sans-serif;
     font-weight: normal;
     font-size: 20px;
     color: white;
+    /* color: black; */
     text-align: center;
     letter-spacing: 5px;
     text-indent: 5px;
@@ -61,17 +75,7 @@ header{
    
 }
 
-.title{
-    padding-top: 250px;
-    text-align: end;
-    text-align: center;
-    color: white;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 60px;
-    letter-spacing: 52px;
-    text-indent: 52px;
-}
+
 
 .display{
     padding-top: 320px;
