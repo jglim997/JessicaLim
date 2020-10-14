@@ -21,14 +21,25 @@ body{
     margin-left: 14%;
     margin-right: 14%;
     margin-top: 10px;
+
+
 }
 
+button{
+    background-color: white;
+    border-color: papayawhip;
+    border-radius: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
 
+}
 
 header{
     /* background-color:#B61111; */
     /* background-color: #721616; */
-    background-color: #922121;
+    /* background-color: #922121; */
     padding-top: 50px;
 }
 
@@ -119,14 +130,18 @@ header{
 
 footer{
     font-family: 'roboto', sans-serif;
-    font-weight: lighter;
+    font-weight: normal;
     text-align: center;
     font-size: 14px;
     color: white;
     margin-bottom: 50px;
 }
 
-
+.link{
+    color: white;
+    font-weight: bolder;
+    
+}
 
 /* .title{
     color: black;
