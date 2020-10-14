@@ -5,7 +5,8 @@ body{
     margin-bottom: 20px;
     /* background-color: #fff9f6; */
     /* background-color:rgb(241, 241, 241); */
-    background-color:rgb(247, 253, 255);;
+    /* background-color:rgb(247, 253, 255); */
+    background-color: whitewhere;
 
     color: black;
     /* background-image: url(images/lightbackground.svg); */
@@ -53,7 +54,7 @@ header{
 } */
 
 .me{
-    margin-top: 50px;
+    margin-top: 80px;
     margin-left: 10%;
     margin-right: 10%;
 }

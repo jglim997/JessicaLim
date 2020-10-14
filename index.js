@@ -36,16 +36,7 @@ function red(){
 
 }
 
-// document.addEventListener("DOMContentLoaded",typeWriter());
-
-
-// function typeWriter(){
-//     var i = 0;
-//     var text = 'JOURNEY';
-//     var speed = 50;
-//     if (i < text.length){
-//         document.getElementById("type").innerHTML += text.charAt(i);
-//         i=i+1;
-//         setTimeout(typeWriter,speed);
-//     }
-// }
+function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+}
