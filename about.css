@@ -52,10 +52,17 @@ header{
 
 } */
 
+.me{
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
 .intro{
     margin-left: 14%;
     margin-right: 14%;
-    margin-top: 120px;
+    margin-top: 50px;
     float: inline-start;
     display: flex;
     justify-content: space-evenly;
@@ -78,17 +85,4 @@ header{
     font-size: 20px;
 
 }
-/* .free{
-    font-family: 'lobster';
-    font-size: 45px;
-    float: inline-start;
-    display: flex;
-    justify-content: space-evenly;
-    margin-left: 14%;
-    margin-right: 14%;
-} */
-/* .pic{
-    text-align: center;
-    margin-top: 70px;
-} */
 
