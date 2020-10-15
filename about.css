@@ -53,7 +53,7 @@ header{
 } */
 
 .me{
-    margin-top: 65px;
+    margin-top: 45px;
     margin-left: 14%;
     margin-right: 14%;
 }
@@ -62,7 +62,7 @@ header{
     font-family: "lobster";
     font-weight: 500;
     /* font-size: 22px; */
-    font-size: 30px;
+    font-size: 28px;
     margin-top: -20px;
     color: rgb(0, 0, 56);
     line-height: 28px;
@@ -94,7 +94,7 @@ header{
     font-size: 18px;
     padding-top: -25px;
     color: rgb(0, 0, 56);
-    line-height: 25px;
+    line-height: 23px;
     text-align: justify;
 }
 
