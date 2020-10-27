@@ -4,7 +4,7 @@ function newtrashtalk(){
 }
 
 function trashtalk(){
-    document.getElementById("img1").src = "images/Group 228.svg";
+    document.getElementById("img1").src = "images/trashtalk.svg";
 
 }
 
@@ -13,7 +13,7 @@ function newpega(){
 }
 
 function pega(){
-    document.getElementById("img2").src = "images/Group 229.svg";
+    document.getElementById("img2").src = "images/intern.svg";
     // 194 is org
 
 }
@@ -23,7 +23,7 @@ function newdou(){
 }
 
 function dou(){
-    document.getElementById("img3").src = "images/Group 231.svg";
+    document.getElementById("img3").src = "images/do u.svg";
     // 194 is org
 
 }
