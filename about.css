@@ -59,11 +59,11 @@ header{
     margin-right: 14%;
 }
 .bonjour{
-    /* font-family: "roboto"; */
-    font-family: "lobster";
+    font-family: "roboto";
+    /* font-family: "lobster"; */
     font-weight: 500;
-    /* font-size: 22px; */
-    font-size: 28px;
+    font-size: 22px;
+    /* font-size: 28px; */
     margin-top: -20px;
     color: rgb(0, 0, 56);
     line-height: 28px;
@@ -71,6 +71,7 @@ header{
     margin-left: 15%;
     margin-right: 15%;
     /* letter-spacing: 3px; */
+    margin-bottom: 8px;
 }
 .center{
     display: block;
@@ -80,8 +81,8 @@ header{
 }
 
 .intro{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 17%;
+    margin-right: 17%;
     margin-top: 50px;
     /* float: inline-start;
     display: flex;
@@ -92,7 +93,7 @@ header{
 .aboutme{
     font-family: "roboto";
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     padding-top: -25px;
     color: rgb(0, 0, 56);
     line-height: 23px;
@@ -102,7 +103,7 @@ header{
 .ending{
     font-family: "roboto";
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     padding-top: -20px;
     color: rgb(0, 0, 56);
     line-height: 25px;

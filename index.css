@@ -101,7 +101,11 @@ header{
     padding-top: 40px; */
 }
 
-
+.button{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
 
 .display{
     /* padding-top: 100px; */
