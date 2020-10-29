@@ -87,7 +87,7 @@ header{
 }
 
 .intro{
-    margin-top: -3rem;
+    margin-top: -4rem;
     text-align: center;
     font-family: "roboto",sans-serif;
     font-weight: normal;
@@ -109,9 +109,9 @@ header{
 
 .display{
     /* padding-top: 100px; */
-    padding-top: 50px;
-    margin-left: 14%;
-    margin-right: 14%;
+    padding-top: 30px;
+    margin-left: 17%;
+    margin-right: 17%;
     float: inline-start;
     display: flex;
     justify-content: space-evenly;
@@ -120,8 +120,8 @@ header{
 .line2{
     /* margin-left: 50px;
     margin-right: 50px; */
-    margin-left: 14%;
-    margin-right: 14%;
+    margin-left: 17%;
+    margin-right: 17%;
     float: inline-start;
     display: flex;
     justify-content: space-evenly;
