@@ -21,12 +21,10 @@ body{
 }
 
 .dark-mode{
-    background-color: #EEF5FF;
-    color: black;
-    text-align: center;
-    margin-left: 14%;
-    margin-right: 14%;
-    margin-top: 10px;
+    background-color: #B7B7B7;
+    color: white;
+    
+    
 
 
 }
@@ -89,7 +87,7 @@ header{
     letter-spacing: 25px;
     text-indent: 25px;
     /* position: relative; */
-    transform: translate(0, -100px);
+    transform: translate(0, -110px);
 }
 
 .intro{
