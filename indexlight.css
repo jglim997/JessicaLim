@@ -3,7 +3,7 @@ body{
     margin-right: 14%;
     margin-top: 10px;
     margin-bottom: 20px;
-    background-color: #EEF5FF;
+    background-color: white;
     color: #1F1F1F;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -11,7 +11,7 @@ body{
 }
 
 
-/* .button{
+.button{
     background-color: white;
     border-color: papayawhip;
     border-radius: 10px;
@@ -21,7 +21,7 @@ body{
     padding-right: 8px;
     text-decoration: none;
 
-} */
+}
 
 header{
     padding-top: 50px;
@@ -65,7 +65,7 @@ header{
     font-size: 55px;
     letter-spacing: 25px;
     text-indent: 25px;
-    transform: translate(0, -100px);
+    transform: translate(0, -110px);
 }
 
 .intro{

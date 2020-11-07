@@ -1,5 +1,5 @@
 function newtrashtalk(){
-    document.getElementById("img1").src = "images/trashtalk2.svg";
+    document.getElementById("img1").src = "images/trashtalk22.svg";
     // 204 IS ORIGINAL
 }
 
@@ -19,7 +19,7 @@ function pega(){
 }
 
 function newdou(){
-    document.getElementById("img3").src = "images/dou2.svg";
+    document.getElementById("img3").src = "images/dou22.svg";
 }
 
 function dou(){

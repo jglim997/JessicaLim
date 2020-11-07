@@ -20,16 +20,9 @@ body{
     
 }
 
-.dark-mode{
-    background-color: #B7B7B7;
-    color: white;
-    
-    
 
 
-}
-
-/* button{
+button{
     background-color: white;
     border-color: papayawhip;
     border-radius: 10px;
@@ -38,7 +31,7 @@ body{
     padding-left: 8px;
     padding-right: 8px;
 
-} */
+}
 
 header{
     /* background-color:#B61111; */
@@ -83,7 +76,7 @@ header{
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     /* font-size: 60px; */
-    font-size: 55px;
+    font-size: 50px;
     letter-spacing: 25px;
     text-indent: 25px;
     /* position: relative; */
@@ -114,8 +107,8 @@ header{
 .display{
     /* padding-top: 100px; */
     padding-top: 30px;
-    margin-left: 17%;
-    margin-right: 17%;
+    margin-left: 20%;
+    margin-right: 20%;
     float: inline-start;
     display: flex;
     justify-content: space-evenly;
