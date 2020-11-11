@@ -9,7 +9,7 @@ function trashtalk(){
 }
 
 function newpega(){
-    document.getElementById("img2").src = "images/pega2.svg";
+    document.getElementById("img2").src = "images/pega22.svg";
 }
 
 function pega(){
