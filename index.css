@@ -11,7 +11,7 @@ body{
     font-family: "roboto";
     text-decoration: none;
     font-size: 18px;
-    color: black;
+    color: rgb(68, 68, 68);
     font-weight: 700;
 }
 
@@ -19,7 +19,7 @@ body{
     font-family: "roboto";
     text-decoration: none;
     font-size: 15px;
-    color: black;
+    color: rgb(68, 68, 68);
     font-weight: 500;
 }
 
