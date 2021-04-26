@@ -1,11 +1,14 @@
 body{
-    background-color: #EFF4FF;
+    /* background-color: #EFF4FF; */
+    background-color: white;
     /* background-image: linear-gradient( #eff4ff,white    ); */
-    
+    /* margin-left: 13rem;
+    margin-right: 13rem; */
     margin-left: 13rem;
     margin-right: 13rem;
     margin-top: 5rem;
 }
+
 
 .title{
     font-family: "roboto";
@@ -28,25 +31,74 @@ nav{
     word-spacing: 20px;
 }
 
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    display: block;
+    padding-top: 60px;
+}
+
 .intro{
     font-family:'Francois One','roboto';
-    font-size: 40px;
+    font-size: 25px;
     /* font-weight: 100; */
     text-transform: uppercase;
     text-align: center;
-    
-    padding-top: 100px;
-    padding-left: 11rem;
-    padding-right: 11rem;
+    padding-top: 40px;
+    padding-left: 14rem;
+    padding-right: 14rem;
     color: rgb(68, 68, 68);
     padding-bottom: 50px;
 }
 
+.type{
+    display: flex;
+    color: rgb(68, 68, 68);
+    justify-content: center;
+}
+
+h1{
+    font-family: 'roboto';
+    font-size: 20px;
+    color: rgb(68, 68, 68);
+    text-align: center;
+}
+
+.typing{
+    font-family: 'roboto';
+    font-size: 20px;
+    color: rgb(68, 68, 68);
+    text-align: center;
+    position: relative; 
+    margin-left: 10px;
+}
+
+.typing::after{
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    border-right: 2px solid black;
+    right: -4px;
+    animation: blink 0.8s infinite ease;
+}
+
+@keyframes blink{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+
 .display{
-    /* padding-top: 100px; */
     padding-top: 30px;
-    margin-left: 18rem;
+    /* margin-left: 18rem; */
     margin-right: 18rem;
+    margin-left: 18rem;
     float: inline-start;
     display: flex;
     justify-content: space-evenly;
@@ -71,13 +123,3 @@ footer{
     color: black;
     margin-bottom: 30px;
 }
-
-/* .grid-container{
-    display: grid;
-    grid-gap: 10px 10px;
-    grid-template-columns: auto auto auto;
-    -ms-grid-column-align: center;
-}
-.grid-item{
-
-} */
