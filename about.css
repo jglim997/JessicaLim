@@ -29,7 +29,7 @@ nav{
 }
 
 .me{
-    margin-top: 45px;
+    margin-top: 5rem;
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -65,7 +65,7 @@ nav{
     font-size: 16px;
     padding-top: -25px;
     color: rgb(0, 0, 56);
-    line-height: 23px;
+    line-height: 35px;
     text-align: justify;
 }
 
@@ -77,5 +77,25 @@ nav{
     color: rgb(0, 0, 56);
     line-height: 25px;
     padding-bottom: 50px;
+    font-style: italic;
+}
+p{
+    font-family: "roboto";
+    font-style: italic;
+    font-weight: 500;
+    font-size: 18px;
+    padding-top: 20px;
+    color: rgb(0, 0, 56);
+    line-height: 23px;
+    text-align: justify;
+}
+h1{
+    font-family: "roboto";
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: -25px;
+    color: rgb(0, 0, 56);
+    line-height: 23px;
+    text-align: justify;
 }
 
